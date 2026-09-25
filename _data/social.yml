@@ -1,0 +1,9 @@
+- title: Email
+  url: mailto:madelvallez.pro@gmail.com
+  icon: fas fa-envelope
+- title: LinkedIn
+  url: www.linkedin.com/in/marine-delvallez-9a65a2299
+  icon: fab fa-linkedin
+- title: GitHub
+  url: https://github.com/zivhub
+  icon: fab fa-github
