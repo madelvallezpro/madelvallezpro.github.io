@@ -30,9 +30,12 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  madelvallezpro
 
 # Build settings {minima,...}
-theme: monophase
+# theme: monophase
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+
+remote_theme: zivhub/monophase@main
 
 header_pages:
   - cv/fr.markdown
