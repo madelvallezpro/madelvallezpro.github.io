@@ -5,4 +5,4 @@ permalink: /cven
 published: true
 ---
 
-Download the english version of my CV [here](cv/cv-en.pdf)
+Download the english version of my CV [here](cv/cv_en.pdf)
