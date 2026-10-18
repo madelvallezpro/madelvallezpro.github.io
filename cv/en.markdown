@@ -1,6 +1,8 @@
 ---
 layout: page
-title: "Curiculum Vitae"
+title: "My Curiculum Vitae"
 permalink: /cven
-published: false
+published: true
 ---
+
+Download the english version of my CV [here](cv/cv-en.pdf)

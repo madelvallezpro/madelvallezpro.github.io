@@ -7,6 +7,8 @@ math: true
 
 > English version [here](/cven)
 
+Version pdf à télécharger [ici](/cv/cv.pdf)
+
 ## Informations diverses
 
 - **Nom, Prénom** : Delvallez Marine
