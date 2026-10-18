@@ -32,9 +32,9 @@ L'immersion recherche consiste en un travail en laboratoire à temps partiel en 
 - Anaïs Halftermeyer (LIFO)
 
 **Supports**:
-- Rapport d'immersion
-- Rapport de stage
-- Dépot en ligne
+- [Rapport d'immersion](/recherche/documents/Rapport_ProjetImmersionS9_DelvallezMarine.pdf)
+- [Rapport de stage](/recherche/documents/RapportS10_MarineDelvallez.pdf)
+- [Dépot en ligne](https://gogit.univ-orleans.fr/lifo/ah/ragrights)
 
 ### Projet ARTESU - an ARtificial inTElligence chatbot for guiding Students facing difficulties during their University journey
 
