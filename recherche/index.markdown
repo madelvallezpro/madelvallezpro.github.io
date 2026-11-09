@@ -34,7 +34,7 @@ L'immersion recherche consiste en un travail en laboratoire à temps partiel en 
 **Supports**:
 - [Rapport d'immersion](/recherche/documents/Rapport_ProjetImmersionS9_DelvallezMarine.pdf)
 - [Rapport de stage](/recherche/documents/RapportS10_MarineDelvallez.pdf)
-- [Dépot en ligne](https://gogit.univ-orleans.fr/lifo/ah/ragrights)
+- [Dépot en ligne](https://github.com/madelvallezpro/RAGRights)
 
 ### Projet ARTESU - an ARtificial inTElligence chatbot for guiding Students facing difficulties during their University journey
 
